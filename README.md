@@ -20,6 +20,4 @@ I enjoy both creating projects from scratch and diving into existing codebases.
 
 I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
 
-Feel free to explore my repositories and don't hesitate to reach out if you'd like to collaborate or just chat about development, bouldering, or the best Phil Collins tracks! 
-
 P.S. Tyler says hello too! 🐩
