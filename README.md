@@ -9,8 +9,7 @@ I design and build practical web applications with a focus on user comfort and e
 - **Version Control:** Git, GitHub
 - **Design & Collaboration:** Figma, Adobe
 - **Development:** VS Code, Visual Studio
-
-I've built around 10 projects so far.
+  
 
 I enjoy both creating projects from scratch and diving into existing codebases. 
 
